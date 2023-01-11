@@ -5,7 +5,7 @@
 
 이 과제를 제출하는 방법은 다음과 같습니다.
 
-  1. [aihub-사회과학분야](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=125)의 말뭉치를 다운로드한다.
+  1. [aihub-사회과학분야](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=125)의 말뭉치를 다운로드합니다.
   2. 본 저장소를 clone 하여 자신의 branch를 생성합니다.
   3. 1번에서 다운 받은 말뭉치에서 "법률"분야와 "경제"분야에 해당하는 한-영 페어를 뽑아냅니다.
   4. 3번에서 뽑아낸 페어를 <기계번역을위한 한-영 페어를 만들 목적을 가지고> 자신의 방식으로 정제/전처리합니다.
