@@ -42,6 +42,9 @@
 - [ ] 파이썬 의존성을 추가한 경우, `requirements.txt`를 작성해야 합니다.
 - [ ] 코드 작동과 관련해서는 docs등의 디렉터리를 추가하여 작성합니다.
 
+## 참고문헌
+- https://arxiv.org/pdf/1906.08885.pdf
+- https://arxiv.org/pdf/1908.10084.pdf
 
 
 
